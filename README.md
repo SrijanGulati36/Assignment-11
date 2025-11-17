@@ -20,7 +20,7 @@ It demonstrates the use of responsive layouts, navigation bars, carousels, tabs,
 - `About Us` dropdown: Overview, Company History, Management, Careers.  
 - `Solutions` dropdown: vProspect, vConvert, vRetain.  
 
-### 4. **Carousel (10 pts)**
+### 4. **Carousel**
 - Full-width **Bootstrap carousel** below the navigation bar.  
 - Includes rotating software-themed images with captions and “More Info” buttons.  
 
